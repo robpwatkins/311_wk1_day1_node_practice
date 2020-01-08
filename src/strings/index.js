@@ -3,7 +3,7 @@ const split = (str, delim) => {
 }
 
 const pairs = (str) => {
-  // Not working yet
+  console.log('heyoo');
 
 }
 
