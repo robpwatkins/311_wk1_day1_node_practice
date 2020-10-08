@@ -1,17 +1,15 @@
 const split = (str, delim) => {
-  return str.split(delim);
+  // write code for strings.split
+
 }
 
 const pairs = (str) => {
-  let arr = [];
-  for (let i = 0; i < str.length; i += 2) {
-    arr.push(str[i] + str[i + 1]);
-  }
-  return arr;
+  // write code for strings.pairs
+
 }
 
 const reverse = (str) => {
-  return str.split('').reverse().join('');
+  // write code for strings.reverse
 
 }
 
